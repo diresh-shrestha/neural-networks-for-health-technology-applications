@@ -1,5 +1,5 @@
 # Neural Networks for Health Technology Applications
-Applying Neural Networks for Health Technology Applications.
+Applying Neural Networks in Health.
 
 These are my programming assignments for the Neural Networks for Health Technology Applications class.
 http://opinto-opas.metropolia.fi/en/realization/TX00DV62-3001
